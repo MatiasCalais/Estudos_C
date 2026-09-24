@@ -1,10 +1,10 @@
 ## ESTUDOS EM C#
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
-# BJETIVO
+### BJETIVO
 Objetivo e se aprofunda em uma linguagem no que pode fazer como fazer e o principal realizar meus projetos na mesma linguagem.<br>
 
-# RESUMO
+### RESUMO
 (todas estudo e um resumo da documentação já existente da Microsoft: https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 C# e uma linguagem de programação fortemente taipada orientada a o objetos e inteirada ao ecossistema .NET.
