@@ -1,6 +1,8 @@
-<h1 align="left">
-  <img src="https://img.shields.io/badge/ESTUDOS%20EM-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=512BD4" height="40" alt="Estudos em C#">
-</h1>
+<p align="left">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=435&lines=ESTUDOS+EM+C%23" alt="Typing SVG" />
+  </a>
+</p>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
 ### BJETIVO
