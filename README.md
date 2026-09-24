@@ -1,8 +1,6 @@
 <h1>
-  ESTUDOS EM 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-       width="42" 
-       style="transform: translateY(8px);">
+  ESTUDOS EM
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/csharp.svg" width="36" alt="C# Logo">
 </h1>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
