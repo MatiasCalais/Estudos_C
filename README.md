@@ -1,4 +1,4 @@
-# ESTUDOS EM <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" style="vertical-align: middle;">
+# ESTUDOS EM # ESTUDOS EM <img src="caminho/para/imagem-csharp.png" style="vertical-align: middle;" height="40" alt="C# Logo">
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
 ### BJETIVO
