@@ -1,9 +1,4 @@
-<h1>
-  ESTUDOS EM
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/csharp.svg" width="36" alt="C# Logo">
-</h1>
-Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&width=400&height=50&lines=ESTUDOS+EM+C%23" alt="ESTUDOS EM C#">
 ### BJETIVO
 Objetivo e se aprofunda em uma linguagem no que pode fazer como fazer e o principal realizar meus projetos na mesma linguagem.<br>
 
