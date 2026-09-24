@@ -1,7 +1,7 @@
 <h1>
   ESTUDOS EM
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-       width="20" 
+       width="50" 
        align="center" 
        style="margin-top: 10px;">
 </h1>
