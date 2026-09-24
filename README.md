@@ -1,4 +1,4 @@
-# ESTUDOS EM <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40">
+# ESTUDOS EM # ESTUDOS EM <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" style="vertical-align: middle;">
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
 ### BJETIVO
