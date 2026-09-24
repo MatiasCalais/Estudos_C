@@ -1,8 +1,8 @@
-<h1>
+<h1 style="display: flex; align-items: center; gap: 10px;">
   ESTUDOS EM
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
        width="45" 
-       style="vertical-align: middle; margin-bottom: -5px;">
+       alt="C# Logo">
 </h1>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
