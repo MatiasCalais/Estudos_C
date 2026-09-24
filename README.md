@@ -1,10 +1,11 @@
-<h1>
-  ESTUDOS EM
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-       width="50" 
-       align="center" 
-       style="margin-top: 05px;">
-</h1>
+<table>
+  <tr>
+    <td valign="middle"><h1>ESTUDOS EM</h1></td>
+    <td valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" alt="C# Logo">
+    </td>
+  </tr>
+</table>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
 ### BJETIVO
