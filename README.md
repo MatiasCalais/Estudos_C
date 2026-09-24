@@ -1,7 +1,9 @@
-<p align="left">
-  <strong style="font-size: 2em;">ESTUDOS EM</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" align="center">
-</p>
+<h1>
+  ESTUDOS EM
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+       width="45" 
+       style="vertical-align: middle; margin-bottom: -5px;">
+</h1>
 ### BJETIVO
 Objetivo e se aprofunda em uma linguagem no que pode fazer como fazer e o principal realizar meus projetos na mesma linguagem.<br>
 
