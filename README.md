@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&width=400&height=50&lines=ESTUDOS+EM+C%23" alt="ESTUDOS EM C#">
+<p align="left">
+  <strong style="font-size: 2em;">ESTUDOS EM</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" align="center">
+</p>
 ### BJETIVO
 Objetivo e se aprofunda em uma linguagem no que pode fazer como fazer e o principal realizar meus projetos na mesma linguagem.<br>
 
