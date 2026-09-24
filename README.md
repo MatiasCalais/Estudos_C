@@ -1,6 +1,8 @@
 <h1>
-  ESTUDOS EM 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" align="baseline" alt="C# Logo">
+  ESTUDOS EM
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+       width="40" 
+       style="vertical-align: -8px;">
 </h1>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
