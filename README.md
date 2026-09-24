@@ -1,8 +1,5 @@
-<h1>
-  ESTUDOS EM
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-       width="40" 
-       style="vertical-align: -8px;">
+<h1 align="left">
+  <img src="https://img.shields.io/badge/ESTUDOS%20EM-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=512BD4" height="40" alt="Estudos em C#">
 </h1>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
