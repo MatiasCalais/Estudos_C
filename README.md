@@ -1,7 +1,7 @@
 <h1>
   ESTUDOS EM
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-       width="45" 
+       width="50" 
        style="vertical-align: middle; margin-bottom: -5px;">
 </h1>
 ### BJETIVO
