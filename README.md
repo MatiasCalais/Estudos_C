@@ -1,8 +1,9 @@
-<p align="left">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=435&lines=ESTUDOS+EM+C%23" alt="Typing SVG" />
-  </a>
-</p>
+<h1>
+  ESTUDOS EM 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+       width="42" 
+       style="transform: translateY(8px);">
+</h1>
 Nesse repositório será informado atividades de logica com a linguagem, e informação de meus estudos da linguagem.
 
 ### BJETIVO
